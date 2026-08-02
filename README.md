@@ -4,6 +4,10 @@
 
 This project analyzes Amul Green's online retail sales data using Power BI to uncover customer purchasing patterns, product performance, delivery efficiency, and geographical demand. The project also includes a Python-based anonymization script to protect confidential customer information while preserving the dataset for analysis and portfolio purposes.
 
+Developed during a two-month Summer Internship at **Amul Dairy** under the **Retail & Marketing Department**, focusing on retail analytics, customer behaviour, delivery operations, and business intelligence.
+
+The dashboard analyzes **5,500+ retail orders** to identify sales trends, customer demand, delivery performance, product insights, and geographical patterns.
+
 ---
 
 ## Business Problem
